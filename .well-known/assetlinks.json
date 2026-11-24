@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.karkoura.ghiras",
+    "sha256_cert_fingerprints": ["B5:F8:AA:DC:D2:5C:91:DF:D2:E2:CD:E1:3A:7A:5E:93:FE:A1:02:36:1D:8D:95:7F:8F:BF:AE:9F:72:B2:8F:9F"]
+  }
+}]
