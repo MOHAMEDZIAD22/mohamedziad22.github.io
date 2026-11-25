@@ -1,8 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.karkoura.ghiras",
-    "sha256_cert_fingerprints": ["B5:F8:AA:DC:D2:5C:91:DF:D2:E2:CD:E1:3A:7A:5E:93:FE:A1:02:36:1D:8D:95:7F:8F:BF:AE:9F:72:B2:8F:9F"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.karkoura.ghiras",
+      "sha256_cert_fingerprints": [
+        "DF:76:68:BA:1C:C8:91:A0:B8:86:D2:D9:C4:CD:F5:47:A9:9E:3D:D3:AA:D4:58:47:9C:EE:E5:A3:14:83:FD:A9",
+        "21:C8:6B:0A:76:13:DD:DE:DB:33:D6:C9:C5:AC:3B:DD:14:5D:A4:AE:FB:C0:04:EC:D2:31:B2:88:27:21:AA:90",
+        "B5:F8:AA:DC:D2:5C:91:DF:D2:E2:CD:E1:3A:7A:5E:93:FE:A1:02:36:1D:8D:95:7F:8F:BF:AE:9F:72:B2:8F:9F"
+      ]
+    }
   }
-}]
+]
